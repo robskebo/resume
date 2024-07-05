@@ -32,7 +32,7 @@ SKILLS
 
 EXPERIENCE
 
-SPACE AND NAVY WARFARE SYSTEM CENTER PACIFIC San Diego, CA
+SPACE AND NAVAL WARFARE SYSTEM CENTER PACIFIC San Diego, CA
 ND-04 Computer Engineer (July 2013 - present)
 
  Final Assignment Seaside Code 56160 Network Warfare Branch
